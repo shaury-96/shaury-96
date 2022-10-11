@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shaurydeep-saxena-5a95a71b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurydeep-saxena-5a95a71b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shaurydeep-saxena-5a95a71b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurydeep-saxena-5a95a71b" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sds96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sds96" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shaurydeepsaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaurydeepsaxena" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sds96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sds96" height="30" width="40" /></a>
