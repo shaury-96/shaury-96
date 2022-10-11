@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shaury</h1>
-<h3 align="center">Programmer by choice</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=18A441&width=435&lines=%F0%9D%90%87%F0%9D%90%A2+%F0%9F%91%8B%2C%F0%9D%9A%82%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%9E%F0%9D%9A%9B%F0%9D%9A%A2+%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%8E!+;%E2%84%99%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%98%F0%9D%95%A3%F0%9D%95%92%F0%9D%95%9E%F0%9D%95%9E%F0%9D%95%96%F0%9D%95%A3)](https://git.io/typing-svg)
+
+<h1 align="center">AI Enthusiast</h1>
+<h3 align="center">Problem Solver</h3>
 
 <img align="right" width="400" alt="Code" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
